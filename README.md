@@ -17,4 +17,4 @@ Simple indoor People-tracking
   **camera server_ip-address**. e.g: `camera 192.168.1.1`
 
 - Run Server:
-  $ `server`
+  Just type `server` and run it
